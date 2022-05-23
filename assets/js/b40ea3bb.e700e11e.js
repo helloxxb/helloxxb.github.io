@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4880],{8686:function(e){e.exports=JSON.parse('{"label":"ab","permalink":"/docs/tags/ab","allTagsPath":"/docs/tags","count":1,"items":[{"id":"DevTools/ab-intro","title":"Apache Bench \u538b\u6d4b\u5de5\u5177\u4ecb\u7ecd","description":"AB \u538b\u6d4b","permalink":"/docs/DevTools/ab-intro"}]}')}}]);

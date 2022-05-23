@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[964],{8866:function(e){e.exports=JSON.parse('[{"label":"vcs","permalink":"/tags/vcs","count":1},{"label":"git-hooks","permalink":"/tags/git-hooks","count":1}]')}}]);

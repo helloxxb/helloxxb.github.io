@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[341],{7628:function(s){s.exports=JSON.parse('{"label":"mysql-design","permalink":"/docs/tags/mysql-design","allTagsPath":"/docs/tags","count":1,"items":[{"id":"MySQL/intro","title":"\u5173\u7cfb\u578b\u6570\u636e\u5e93\u4ecb\u7ecd","description":"RDBMS","permalink":"/docs/MySQL/intro"}]}')}}]);
