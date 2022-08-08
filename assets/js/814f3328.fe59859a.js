@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u5229\u7528WebHooks\u5b9e\u73b0\u4ee3\u7801\u81ea\u52a8\u62c9\u53d6","permalink":"/2022/02/13/git-hooks-auto-pull"}]}')}}]);
